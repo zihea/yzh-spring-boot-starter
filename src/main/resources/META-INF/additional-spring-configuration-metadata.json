@@ -1,0 +1,10 @@
+{
+  "properties": [
+    {
+      "name": "yzh.hello.name",
+      "type": "java.lang.String",
+      "description": "用户名.",
+      "defaultValue": "default"
+    }
+  ]
+}
